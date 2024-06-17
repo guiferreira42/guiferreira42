@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Olá, sou a Guilherme e atuo hoje como Analista de BI.</h1>
 
-<!--
-**guiferreira42/guiferreira42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<a href="https://github.com/pollymsr">
+  <div align="center" style="display:flex">
+  <a href="https://github.com/PollyanRocha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiferreira42&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiferreira42&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+</div>
 
-Here are some ideas to get you started:
+## Contatos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://www.linkedin.com/in/guilherme-ferreira-089774162" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
